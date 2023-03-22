@@ -7,7 +7,7 @@
       "input": "John\r\n1\r\n2\r\n4\r\n1\r\n3\r\n3\r\n0",
       "output": "Order for John:\r\n2 soda\r\n1 burger\r\n2 pizza slice\r\n1 fries\r\nTotal cost: $17",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "Bob\r\n1\r\n2\r\n0",
       "output": "Order for Bob:\r\n1 soda\r\n1 burger\r\nTotal cost: $7",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "Will\r\n0",
       "output": "Order for Will:\r\nTotal cost: $0",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
